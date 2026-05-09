@@ -9,8 +9,8 @@ const BrandCard = ({ brand }) => {
       <div>
         <Image
           src={brand.image}
-          height={200}
-          width={200}
+          height={300}
+          width={300}
           alt={brand.name}
         ></Image>
       </div>
