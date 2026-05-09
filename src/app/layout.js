@@ -18,10 +18,11 @@ export default function RootLayout({ children }) {
       lang="en"
       className={`${OutfitFont.className} h-full antialiased`}
     >
-      <body>
-        <Navbar></Navbar>
-        {children}</body>
-        <Footer></Footer>
+      <body className="min-h-full flex flex-col">
+      <Navbar></Navbar>
+        <main>{children}</main>
+       <Footer></Footer> 
+        </body>
     </html>
   );
 }

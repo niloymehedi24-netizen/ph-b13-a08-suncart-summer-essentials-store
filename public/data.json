@@ -7,7 +7,7 @@
     "rating": 4.7,
     "stock": 10,
     "description": "Stylish UV protection sunglasses perfect for summer outings.",
-    "image": "https://i.ibb.co/3yKzX1F/sunglass.jpg",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
     "category": "Accessories"
   },
   {
@@ -18,7 +18,7 @@
     "rating": 4.5,
     "stock": 18,
     "description": "Lightweight straw hat designed for sunny beach days.",
-    "image": "https://i.ibb.co/HKz1XrJ/hat.jpg",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee",
     "category": "Fashion"
   },
   {
@@ -29,7 +29,7 @@
     "rating": 4.6,
     "stock": 25,
     "description": "Breathable cotton t-shirt ideal for hot summer weather.",
-    "image": "https://i.ibb.co/2n9xgGm/tshirt.jpg",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab",
     "category": "Clothing"
   },
   {
@@ -40,7 +40,7 @@
     "rating": 4.9,
     "stock": 30,
     "description": "Protect your skin from harmful UV rays with long-lasting SPF 50.",
-    "image": "https://i.ibb.co/7QK7ZrH/sunscreen.jpg",
+    "image": "https://images.unsplash.com/photo-1521223890158-f9f7c3d5d504",
     "category": "Skincare"
   },
   {
@@ -51,7 +51,7 @@
     "rating": 4.3,
     "stock": 40,
     "description": "Comfortable flip flops perfect for beach vacations.",
-    "image": "https://i.ibb.co/fn0b3yM/flipflop.jpg",
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306",
     "category": "Footwear"
   },
   {
@@ -62,7 +62,7 @@
     "rating": 4.8,
     "stock": 20,
     "description": "Keeps your drinks cold for hours during summer adventures.",
-    "image": "https://i.ibb.co/q1KxXgR/bottle.jpg",
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504",
     "category": "Accessories"
   },
   {
@@ -73,7 +73,7 @@
     "rating": 4.4,
     "stock": 15,
     "description": "Large stylish tote bag for carrying beach essentials.",
-    "image": "https://i.ibb.co/6n0jQkV/totebag.jpg",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
     "category": "Accessories"
   },
   {
@@ -84,7 +84,7 @@
     "rating": 4.5,
     "stock": 28,
     "description": "Refreshing cooling mist to hydrate your skin instantly.",
-    "image": "https://i.ibb.co/Y0t5z7x/facemist.jpg",
+    "image": "https://images.unsplash.com/photo-1515377905703-c4788e51af15",
     "category": "Skincare"
   },
   {
@@ -95,7 +95,7 @@
     "rating": 4.6,
     "stock": 16,
     "description": "Quick-dry swimming shorts made for comfort and style.",
-    "image": "https://i.ibb.co/7z5x7Qx/swimshort.jpg",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
     "category": "Clothing"
   },
   {
@@ -106,7 +106,7 @@
     "rating": 4.7,
     "stock": 22,
     "description": "Compact rechargeable mini fan to stay cool everywhere.",
-    "image": "https://i.ibb.co/XV5w7v5/minifan.jpg",
+    "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
     "category": "Electronics"
   },
   {
@@ -117,7 +117,7 @@
     "rating": 4.2,
     "stock": 14,
     "description": "Durable volleyball designed for beach sports and fun.",
-    "image": "https://i.ibb.co/rmY5L4Q/volleyball.jpg",
+    "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b",
     "category": "Sports"
   },
   {
@@ -128,7 +128,7 @@
     "rating": 4.8,
     "stock": 35,
     "description": "Soothing aloe vera gel for sun-exposed skin.",
-    "image": "https://i.ibb.co/BzQXq9K/aloevera.jpg",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
     "category": "Skincare"
   },
   {
@@ -139,7 +139,7 @@
     "rating": 4.7,
     "stock": 12,
     "description": "Elegant floral dress perfect for summer parties and outings.",
-    "image": "https://i.ibb.co/Z1m7yQ4/floraldress.jpg",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c",
     "category": "Fashion"
   },
   {
@@ -150,7 +150,7 @@
     "rating": 4.6,
     "stock": 8,
     "description": "Complete picnic basket set for outdoor summer gatherings.",
-    "image": "https://i.ibb.co/y6QX2jP/picnicbasket.jpg",
+    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
     "category": "Outdoor"
   },
   {
@@ -161,7 +161,7 @@
     "rating": 4.9,
     "stock": 10,
     "description": "Portable waterproof speaker for beach and poolside music.",
-    "image": "https://i.ibb.co/J5r2L2Q/speaker.jpg",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4",
     "category": "Electronics"
   }
 ]
