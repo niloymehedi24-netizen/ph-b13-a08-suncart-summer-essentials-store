@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "UV Protection Sunglasses",
+    "brand": "SunShade",
+    "price": 15,
+    "rating": 4.7,
+    "stock": 10,
+    "description": "Stylish UV protection sunglasses perfect for summer outings.",
+    "image": "https://i.ibb.co/3yKzX1F/sunglass.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 2,
+    "name": "Beach Straw Hat",
+    "brand": "SunnyWear",
+    "price": 12,
+    "rating": 4.5,
+    "stock": 18,
+    "description": "Lightweight straw hat designed for sunny beach days.",
+    "image": "https://i.ibb.co/HKz1XrJ/hat.jpg",
+    "category": "Fashion"
+  },
+  {
+    "id": 3,
+    "name": "Summer Cotton T-Shirt",
+    "brand": "CoolFit",
+    "price": 20,
+    "rating": 4.6,
+    "stock": 25,
+    "description": "Breathable cotton t-shirt ideal for hot summer weather.",
+    "image": "https://i.ibb.co/2n9xgGm/tshirt.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 4,
+    "name": "SPF 50 Sunscreen",
+    "brand": "SkinGuard",
+    "price": 18,
+    "rating": 4.9,
+    "stock": 30,
+    "description": "Protect your skin from harmful UV rays with long-lasting SPF 50.",
+    "image": "https://i.ibb.co/7QK7ZrH/sunscreen.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 5,
+    "name": "Flip Flops",
+    "brand": "BeachWalk",
+    "price": 10,
+    "rating": 4.3,
+    "stock": 40,
+    "description": "Comfortable flip flops perfect for beach vacations.",
+    "image": "https://i.ibb.co/fn0b3yM/flipflop.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": 6,
+    "name": "Insulated Water Bottle",
+    "brand": "HydroCool",
+    "price": 14,
+    "rating": 4.8,
+    "stock": 20,
+    "description": "Keeps your drinks cold for hours during summer adventures.",
+    "image": "https://i.ibb.co/q1KxXgR/bottle.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 7,
+    "name": "Beach Tote Bag",
+    "brand": "CarrySea",
+    "price": 22,
+    "rating": 4.4,
+    "stock": 15,
+    "description": "Large stylish tote bag for carrying beach essentials.",
+    "image": "https://i.ibb.co/6n0jQkV/totebag.jpg",
+    "category": "Accessories"
+  },
+  {
+    "id": 8,
+    "name": "Cooling Face Mist",
+    "brand": "FreshGlow",
+    "price": 11,
+    "rating": 4.5,
+    "stock": 28,
+    "description": "Refreshing cooling mist to hydrate your skin instantly.",
+    "image": "https://i.ibb.co/Y0t5z7x/facemist.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 9,
+    "name": "Swimming Shorts",
+    "brand": "WaveStyle",
+    "price": 25,
+    "rating": 4.6,
+    "stock": 16,
+    "description": "Quick-dry swimming shorts made for comfort and style.",
+    "image": "https://i.ibb.co/7z5x7Qx/swimshort.jpg",
+    "category": "Clothing"
+  },
+  {
+    "id": 10,
+    "name": "Portable Mini Fan",
+    "brand": "AirBreeze",
+    "price": 17,
+    "rating": 4.7,
+    "stock": 22,
+    "description": "Compact rechargeable mini fan to stay cool everywhere.",
+    "image": "https://i.ibb.co/XV5w7v5/minifan.jpg",
+    "category": "Electronics"
+  },
+  {
+    "id": 11,
+    "name": "Beach Volleyball",
+    "brand": "SportX",
+    "price": 19,
+    "rating": 4.2,
+    "stock": 14,
+    "description": "Durable volleyball designed for beach sports and fun.",
+    "image": "https://i.ibb.co/rmY5L4Q/volleyball.jpg",
+    "category": "Sports"
+  },
+  {
+    "id": 12,
+    "name": "Aloe Vera Gel",
+    "brand": "NatureCare",
+    "price": 13,
+    "rating": 4.8,
+    "stock": 35,
+    "description": "Soothing aloe vera gel for sun-exposed skin.",
+    "image": "https://i.ibb.co/BzQXq9K/aloevera.jpg",
+    "category": "Skincare"
+  },
+  {
+    "id": 13,
+    "name": "Summer Floral Dress",
+    "brand": "BloomWear",
+    "price": 32,
+    "rating": 4.7,
+    "stock": 12,
+    "description": "Elegant floral dress perfect for summer parties and outings.",
+    "image": "https://i.ibb.co/Z1m7yQ4/floraldress.jpg",
+    "category": "Fashion"
+  },
+  {
+    "id": 14,
+    "name": "Picnic Basket Set",
+    "brand": "SunnyPicnic",
+    "price": 40,
+    "rating": 4.6,
+    "stock": 8,
+    "description": "Complete picnic basket set for outdoor summer gatherings.",
+    "image": "https://i.ibb.co/y6QX2jP/picnicbasket.jpg",
+    "category": "Outdoor"
+  },
+  {
+    "id": 15,
+    "name": "Waterproof Bluetooth Speaker",
+    "brand": "SoundWave",
+    "price": 45,
+    "rating": 4.9,
+    "stock": 10,
+    "description": "Portable waterproof speaker for beach and poolside music.",
+    "image": "https://i.ibb.co/J5r2L2Q/speaker.jpg",
+    "category": "Electronics"
+  }
+]
