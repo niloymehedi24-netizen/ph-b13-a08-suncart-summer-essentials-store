@@ -3,6 +3,7 @@ import Image from "next/image";
 import { FcRating } from "react-icons/fc";
 import { IoIosPricetags } from "react-icons/io";
 import React from "react";
+import Link from "next/link";
 
 const BrandCard = ({ brand }) => {
   console.log(brand);
@@ -34,13 +35,15 @@ const BrandCard = ({ brand }) => {
           <p className="font-bold text-xl text-green-600">${brand.price}</p>
         </div>
       </div>
-      <Button
-        className={
-          "w-full font-bold bg-linear-to-r from-yellow-500 via-orange-500 bg-red-500"
-        }
-      >
-        View Details
-      </Button>
+      <Link href={`/products/${brand.id}`}>
+        <Button
+          className={
+            "w-full font-bold bg-linear-to-r from-yellow-500 via-orange-500 bg-red-500"
+          }
+        >
+          View Details
+        </Button>
+      </Link>
     </Card>
   );
 };
