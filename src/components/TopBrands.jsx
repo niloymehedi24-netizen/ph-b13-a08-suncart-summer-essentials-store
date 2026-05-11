@@ -7,7 +7,6 @@ const TopBrands = async () => {
   );
   const data = await res.json();
   const topBrands = data.slice(0, 3);
-  console.log(topBrands);
 
   return (
     <div className="max-w-7xl mx-auto">

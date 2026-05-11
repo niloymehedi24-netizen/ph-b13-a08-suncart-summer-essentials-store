@@ -6,7 +6,6 @@ import React from "react";
 import Link from "next/link";
 
 const BrandCard = ({ brand }) => {
-  console.log(brand);
   return (
     <Card className=" max-w-7xl mx-auto border rounded-xl m-10">
       <div className="relative w-full aspect-square">
