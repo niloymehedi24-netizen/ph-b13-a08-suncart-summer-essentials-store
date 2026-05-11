@@ -1,5 +1,6 @@
 import React from "react";
 import BrandCard from "./BrandCard";
+import SummerCareTips from "./SummerCareTips";
 
 const TopBrands = async () => {
   const res = await fetch(
@@ -10,6 +11,7 @@ const TopBrands = async () => {
 
   return (
     <div className="max-w-7xl mx-auto">
+      <SummerCareTips></SummerCareTips>
       <h1 className="text-3xl font-bold mt-5">Popular Products</h1>
       <div className="grid grid-cols-3 gap-5">
         {topBrands.map((brand) => (
