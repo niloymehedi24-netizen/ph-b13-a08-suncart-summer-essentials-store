@@ -6,10 +6,6 @@ The platform provides a smooth and responsive shopping experience with authentic
 
 ---
 
-## 📸 Screenshot
-
-![SunCart Homepage](./public/screenshot.png)
-
 ## 🔗 Resources
 
 - 🌐 Live Site: https://ph-b13-a08-suncart-summer-essential.vercel.app
