@@ -1,3 +1,17 @@
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js"/>
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?logo=react"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-4-06B6D4?logo=tailwindcss"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/License-Educational-blue"/>
+
+</p>
+
 # ☀️ SunCart – Summer Essentials Store
 
 SunCart is a modern summer-themed eCommerce web application where users can explore and purchase seasonal products like sunglasses, skincare items, beach accessories, summer outfits, and more.
