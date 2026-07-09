@@ -6,9 +6,14 @@ The platform provides a smooth and responsive shopping experience with authentic
 
 ---
 
-# 🌐 Live Website
+## 📸 Screenshot
 
-🔗 Live URL: https://ph-b13-a08-suncart-summer-essential.vercel.app
+![SunCart Homepage](./public/screenshot.png)
+
+## 🔗 Resources
+
+- 🌐 Live Site: https://ph-b13-a08-suncart-summer-essential.vercel.app
+- 💻 Client Repository: [https://github.com/niloymehedi24-netizen/your-repo-name](https://github.com/niloymehedi24-netizen/ph-b13-a08-suncart-summer-essentials-store)
 
 ---
 
@@ -50,18 +55,61 @@ The goal of this project is to build a modern responsive summer eCommerce applic
 
 ---
 
-# 📦 NPM Packages Used
+## 📦 Dependencies
+
+### Frontend
+
+- Next.js
+- React
+- Tailwind CSS
+- HeroUI
+- Better Auth
+- MongoDB
+- React Spring
+- React Toastify
+- React Icons
+- Lucide React
+
+### Development
+
+- ESLint
+- PostCSS
+
+## 🚀 Run Locally
+
+### 1. Clone the repository
 
 ```bash
-npm install @react-spring/web
-npm install react-toastify
-npm install lucide-react@next
-npm install react-icons
-npm install better-auth
-npm install @heroui/react
-npm install @gravity-ui
-npm install mongodb
-npm install @better-auth/mongo-adapter
+git clone https://github.com/niloymehedi24-netizen/suncart.git
+```
+
+### 2. Go to the project folder
+
+```bash
+cd suncart
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Create a `.env.local` file
+
+```env
+MONGODB_URI=
+BETTER_AUTH_SECRET=
+BETTER_AUTH_URL=
+```
+
+### 5. Start the development server
+
+```bash
+npm run dev
+```
+
+Open http://localhost:3000
 
 👨‍💻 Developer
 
